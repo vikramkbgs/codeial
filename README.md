@@ -55,6 +55,7 @@ To deploy the application, you will need to set up a production environment with
 ## Screenshot
 
 ![screenshot of codeial](./public/assets/gif/codeial.gif)
+![screenshot of codeial](./public/assets/gif/codeial2.gif)
 
 ## Contributing
 
