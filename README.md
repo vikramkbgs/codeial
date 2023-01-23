@@ -3,8 +3,11 @@
 Codeial is a social media platform that allows users to create posts, comment on them, like them, and chat with friends. Users can also log in using their Google account.
 
 This project was built using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and also uses Passport.js for authentication, Redis for caching, and Gulp for task automation. Additionaly it is using packages such as connect-flash, connect-mongo, cookie-parser, crypto, del, ejs, express-ejs-layouts, express-session, gulp-cssnano, gulp-imagemin, gulp-rev, gulp-sass, gulp-uglify-es, jsonwebtoken, kue, mongoose, morgan, multer, node-sass, node-sass-middleware, nodemailer, passport-google-oauth, passport-jwt, passport-local, redis-server, rotating-file-stream, run-sequence, socket.io
+
 ## Screenshot
-![screenshot of codeial](./public/assets/gif/codeial.gif);
+
+![screenshot of codeial](./public/assets/gif/codeial.gif)
+
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/<username>/codeial.git`
